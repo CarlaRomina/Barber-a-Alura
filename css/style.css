@@ -320,14 +320,14 @@ td, th{
 
     .logo{
         width: 150px;
-        margin-left: 80px;
+        margin-left: 90px;
         
     }
 
     .principal{
         width: 350px;
         padding: 5px;
-        margin-left: 10px;
+        margin-left: 20px;
     }
     .map iframe{
        margin-left: 45px; 
@@ -341,7 +341,7 @@ td, th{
 
     .video{
         width:350px;
-        margin:10px 12px 0 12px;
+        margin:10px 12px 0 20px;
         
     }
 
@@ -354,7 +354,7 @@ td, th{
     .foto{
         display: block;
         width: 250px;
-        margin:20px 40px 30px 20px;
+        margin:20px 40px 40px 20px;
     }
 
     .imgUtensillos{

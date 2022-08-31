@@ -306,6 +306,10 @@ td, th{
 /* media queries */
 
 @media screen and (max-width:480px) {
+    html{
+        overflow-x: hidden;
+    }
+
     header{
         width: auto;
     }

@@ -306,13 +306,7 @@ td, th{
 /* media queries */
 
 @media screen and (max-width:480px) {
-    body{
-        overflow-x: hidden;
-    }
-
-    header{
-        width: auto;
-    }
+   
     nav {
         position: static;
      
@@ -329,7 +323,7 @@ td, th{
     }
 
     .principal{
-        width: 350px;
+       
         padding: 5px;
         margin-left: 20px;
     }
